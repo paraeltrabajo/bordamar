@@ -37,7 +37,7 @@
             <div class="uk-card-body">
                 <h3 class="encabezado1 uk-animation-slide-left-small">Bordado para diferentes tipos de telas</h3>
                 <p class="fuenteparrafo1"> 
-                    Haz que tu marca se vea con Sublimación y Bordado, 
+                    Haz que tu marca se vea con Sublimación y Bordadoo, 
                     situados en la ciudad de La Paz, Baja California Sur.
                     Somos especialistas en sublimación, bordado y estampado de imágenes en diferentes materiales y colores. 
                     Tanto si quieres crear camisetas personalizadas para el personal de tu empresa
